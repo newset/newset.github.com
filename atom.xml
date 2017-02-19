@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ujoy.me/"/>
-  <updated>2017-02-19T13:43:47.000Z</updated>
+  <updated>2017-02-19T15:01:53.000Z</updated>
   <id>http://www.ujoy.me/</id>
   
   <author>
@@ -19,12 +19,14 @@
     <title>Express 使用总结 （一）</title>
     <link href="http://www.ujoy.me/2017/02/19/Express-%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93-%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://www.ujoy.me/2017/02/19/Express-使用总结-（一）/</id>
-    <published>2017-02-19T13:43:47.000Z</published>
-    <updated>2017-02-19T13:43:47.000Z</updated>
+    <published>2017-02-19T13:43:00.000Z</published>
+    <updated>2017-02-19T15:01:53.000Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="前端" scheme="http://www.ujoy.me/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
   </entry>
@@ -33,8 +35,8 @@
     <title>Hybrid开发框架优化 - Virtual Dom </title>
     <link href="http://www.ujoy.me/2017/02/19/Hybrid%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%E4%BC%98%E5%8C%96-Virtual-Dom/"/>
     <id>http://www.ujoy.me/2017/02/19/Hybrid开发框架优化-Virtual-Dom/</id>
-    <published>2017-02-19T13:40:44.000Z</published>
-    <updated>2017-02-19T13:41:48.000Z</updated>
+    <published>2017-02-19T13:40:00.000Z</published>
+    <updated>2017-02-19T15:02:05.000Z</updated>
     
     <summary type="html">
     
@@ -43,6 +45,14 @@
     
     </summary>
     
+      <category term="前端" scheme="http://www.ujoy.me/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="Javascript" scheme="http://www.ujoy.me/tags/Javascript/"/>
+    
+      <category term="VDom" scheme="http://www.ujoy.me/tags/VDom/"/>
+    
+      <category term="前端" scheme="http://www.ujoy.me/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
@@ -50,8 +60,8 @@
     <title>2017年新开始 ：）</title>
     <link href="http://www.ujoy.me/2017/02/14/2017%E5%B9%B4%E6%96%B0%E5%BC%80%E5%A7%8B-1/"/>
     <id>http://www.ujoy.me/2017/02/14/2017年新开始-1/</id>
-    <published>2017-02-13T16:09:08.000Z</published>
-    <updated>2017-02-13T17:19:25.000Z</updated>
+    <published>2017-02-13T16:09:00.000Z</published>
+    <updated>2017-02-19T14:28:06.000Z</updated>
     
     <summary type="html">
     
@@ -60,6 +70,10 @@
     
     </summary>
     
+      <category term="生活" scheme="http://www.ujoy.me/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="http://www.ujoy.me/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
