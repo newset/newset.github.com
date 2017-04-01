@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ujoy.me/"/>
-  <updated>2017-03-26T15:05:13.000Z</updated>
+  <updated>2017-03-29T05:38:29.000Z</updated>
   <id>http://www.ujoy.me/</id>
   
   <author>
@@ -16,16 +16,66 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>React + Redux</title>
+    <link href="http://www.ujoy.me/2017/03/29/React-Redux/"/>
+    <id>http://www.ujoy.me/2017/03/29/React-Redux/</id>
+    <published>2017-03-29T05:38:26.000Z</published>
+    <updated>2017-03-29T05:38:29.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://github.com/sorrycc/blog/issues/1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/sorrycc/blog/issues/1&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JS 动画 （1）</title>
+    <link href="http://www.ujoy.me/2017/03/29/JS-%E5%8A%A8%E7%94%BB-%EF%BC%881%EF%BC%89/"/>
+    <id>http://www.ujoy.me/2017/03/29/JS-动画-（1）/</id>
+    <published>2017-03-29T05:38:02.000Z</published>
+    <updated>2017-03-29T05:54:50.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://github.com/juliangarnier/anime&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/juliangarnier/anime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JS算法 （1）</title>
+    <link href="http://www.ujoy.me/2017/03/28/JS%E7%AE%97%E6%B3%95-%EF%BC%881%EF%BC%89/"/>
+    <id>http://www.ujoy.me/2017/03/28/JS算法-（1）/</id>
+    <published>2017-03-28T05:40:00.000Z</published>
+    <updated>2017-03-29T05:45:36.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://github.com/lightningtgc/JavaScript-Algorithms&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/lightningtgc/JavaScript
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>简单的Node 命令行工具</title>
     <link href="http://www.ujoy.me/2017/03/26/%E7%AE%80%E5%8D%95%E7%9A%84Node-%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/"/>
     <id>http://www.ujoy.me/2017/03/26/简单的Node-命令行工具/</id>
     <published>2017-03-26T15:05:00.000Z</published>
-    <updated>2017-03-26T15:05:13.000Z</updated>
+    <updated>2017-04-01T05:23:57.000Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;简单的Node 命令行工具&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;https://github.com/newset/write-scaffold-with-nodejs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/new
     
     </summary>
     
@@ -109,12 +159,12 @@
     <link href="http://www.ujoy.me/2017/02/19/Hybrid%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%E4%BC%98%E5%8C%96-Virtual-Dom/"/>
     <id>http://www.ujoy.me/2017/02/19/Hybrid开发框架优化-Virtual-Dom/</id>
     <published>2017-02-19T13:40:00.000Z</published>
-    <updated>2017-02-19T15:02:05.000Z</updated>
+    <updated>2017-03-29T05:39:21.000Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;最近有机会接触Hybrid开发，&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;https://github.com/livoras/blog/issues/14&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/livoras/blo
     
     </summary>
     
